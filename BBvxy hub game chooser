@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BBvxy/bbvxy-hub-but-better/main/Game%20chooser"))();
